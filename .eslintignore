@@ -1,0 +1,6 @@
+// .eslintignore
+node_modules
+publish
+*.md
+.eslintrc.js
+webpack.config.js
